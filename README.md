@@ -7,7 +7,7 @@ The following is an illustration of addresses clustered in the [Bionic token](ht
 The airdrop is at F6, the white circle are recipients that never did anything with their tokens. Surrounding, several entities appear to participate multiple times and aggregate their tokens into a single address. At F14, the HotBit exchange is visible. Deposit addresses belonging to HotBit are visible in E12-F13.
 
 To run, the `config.py` file needs to be adjusted with appropriate data.
-Example data of the bionic network is included.
+Example data of the bionic network is included. To run with more data, you first need to extract blocks, transactions, traces and transfers via https://github.com/blockchain-etl/ethereum-etl
 
 ### Usage:
 ```
