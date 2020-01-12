@@ -130,6 +130,3 @@ dmypy.json
 
 # ignore ipython
 *.ipynb
-
-# ignore outputs
-/data/output
